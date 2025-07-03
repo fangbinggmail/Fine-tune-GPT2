@@ -1,8 +1,8 @@
-# Fine-tune-GPT2
+# Fine-tune-LLM
 
 ## Introduction
 
-This REPO contains a Jupyter notebook to fine tune the distilled GPT2 LLM model *distilgpt2* with data from the dataset *"talkmap/banking-conversation-corpus"*. We used only the forst 5000 entries to save the training time.
+This REPO contains a Jupyter notebook to fine tune the *bert-base-uncased* LLM model with data from the dataset *"AiresPucrs/sentiment-analysis"*. We used only the forst 5000 entries to save the training time.
 
 ## Installation
 
